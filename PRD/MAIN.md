@@ -1,0 +1,7 @@
+
+/CORE/HUMANS.md
+/OD/ENTITY.md
+/OD/JOB.md
+/OD/HC.md
+/OD/POSITION.md
+/CORE/STAFF.md
