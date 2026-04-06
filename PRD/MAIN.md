@@ -1,4 +1,5 @@
 
+# sequence
 /CORE/HUMANS.md
 /OD/ENTITY.md
 /OD/JOB.md
